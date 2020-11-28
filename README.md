@@ -1,3 +1,3 @@
-#paulmurray.pm
+# paulmurray.pm
 
 Personal website, made with Hugo.
