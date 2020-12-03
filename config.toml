@@ -22,7 +22,7 @@ title = "Paul Murray"
 [params]
   author = "Paul Murray"
   description = "Practitioner of some trades, master of none."
-  bio = "Practitioner of some trades, master of none. Linux user, not Arch btw. Email: pm at this domain."
+  bio = "Practitioner of some trades, master of none. Linux user, not Arch btw. Email: pm (at) paulmurray (dot) pm."
   avatar = "img/avatar.jpg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
