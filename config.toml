@@ -28,7 +28,3 @@ title = "Paul Murray"
   error404 = "There is no such page."
 
   [params.contact]
-    github = "https://github.com/sientelo"
-    linkedin = "https://www.linkedin.com/in/pauljvmurray"
-    medium = "https://medium.com/@pauljamesmurray"
-    email = "See website"
